@@ -34,13 +34,13 @@ const cards = [
     items: [
       {
         main: 'RIDI 長期利用',
-        sub: 'ライブラリ 2,000件以上 / Wishlist・通知機能活用',
+        sub: '書斎 2000冊以上所蔵中 / Wishlist・通知機能活用',
         period: '継続利用',
         logo: 'ridi',
       },
       {
         main: 'カカオページ利用',
-        sub: '保管箱・購入・閲覧履歴など継続利用',
+        sub: '300件以上の作品を閲覧など継続利用',
         period: '継続利用',
         logo: 'kakao',
       },

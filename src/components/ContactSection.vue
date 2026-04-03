@@ -7,7 +7,7 @@ const contacts = [
   {
     type: 'email',
     label: 'Email',
-    value: 'hansol@email.com',
+    value: 'idpw25@gmail.com',
     href: 'mailto:idpw25@gmail.com',
   },
   {
@@ -119,7 +119,7 @@ const contacts = [
 
       <div class="text-center">
         <a
-          href="mailto:hansol@email.com"
+          href="mailto:idpw25@gmail.com"
           class="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-8 py-3.5 font-medium text-white shadow-md transition-all duration-300 hover:-translate-y-0.5 hover:bg-emerald-700 hover:shadow-lg"
         >
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
