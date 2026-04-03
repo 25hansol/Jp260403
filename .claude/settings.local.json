@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hansol-portfolio.vercel.app)",
+      "Bash(pnpm rebuild:*)",
+      "Bash(pnpm vite:*)",
+      "Bash(pnpm dev:*)"
+    ]
+  }
+}
